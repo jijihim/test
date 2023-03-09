@@ -1,4 +1,8 @@
 {
-"width": "2",
-"height" : "2"
+    "glasstype":"plain",
+    "frametype":"Wooden",
+    "framecolor":"Blue",
+    "CavityDimension":"2050X2000",
+    "HorizontalSpilt":"None",
+    "Handle":"Normal Handle"
 }
